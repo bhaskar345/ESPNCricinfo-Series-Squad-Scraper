@@ -18,7 +18,7 @@ request body e.g :
 
 ```json
 {
-    "url":"https://www.espncricinfo.com/series/indian-premier-league-2022-1298423"
+    "url":"https://www.espncricinfo.com/series/sri-lanka-in-india-2021-22-1278665"
 }
 ```
 >It will save squads into database and it will return saved series squads in response.
@@ -31,5 +31,5 @@ request body :
 
 ```json
 {
-    "series":"Indian Premier League 2022"
+    "series":"Sri Lanka tour of India 2021/22"
 }
